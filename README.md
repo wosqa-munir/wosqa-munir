@@ -23,7 +23,7 @@ Here are a few of my technical skills:
 
 Here are a few of my GitHub repositories:
 
-- [**Repo 1 Name**](https://github.com/wsqa-munir/repo1): Short description of what this repository does.
+- [**my-first-repo**](https://github.com/wosqa-munir/my-first-repo)
 # 📊 Stats & GitHub Activity
 
 ![Wosqa's GitHub stats](https://github-readme-stats.vercel.app/api?username=wsqa-munir&show_icons=true&theme=radical)
